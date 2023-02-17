@@ -1,0 +1,46 @@
+body{
+
+}
+
+div header{background-color: rgb(5, 20, 68);
+    color:white;padding: 30px;px;font-size:25px;
+}
+div a*link {margin: 13px;inset-inline-end: 0;display:flex;
+
+}
+div ul a{text-align: right;
+
+}
+div button{
+text-align: end;
+}
+h1{color: black;
+
+}
+p{
+color:rgb(43, 31, 31)
+}
+img{align-items:right;
+
+}
+button{ padding : 15px;color: rgb(21, 21, 204);
+    text-align-last: right;
+
+}
+
+.link{
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+}
+li{
+    float:right;
+}
+li a{
+    display: block;
+    color: rgb(65, 1, 167);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}

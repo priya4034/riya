@@ -1,21 +1,29 @@
 body{
-
+backgroung-color:#ffff;
+    
 }
 
-div header{background-color: rgb(5, 20, 68);
-    color:white;padding: 30px;px;font-size:25px;
+div header{
+    boder-box:fit-content;
+    background-color: rgb(5, 20, 68);
+    color:white;
+    padding:30px;
+    font-size:25px;
 }
-div a*link {margin: 13px;inset-inline-end: 0;display:flex;
-
+div a*link {
+            margin: 13px;
+            inset-inline-end: 0;
+            display:flex;
 }
-div ul a{text-align: right;
+div ul a{
+    text-align: right;
 
 }
 div button{
 text-align: end;
 }
-h1{color: black;
-
+h1{
+    color: black;
 }
 p{
 color:rgb(43, 31, 31)
